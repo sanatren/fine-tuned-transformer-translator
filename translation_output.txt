@@ -1,0 +1,2 @@
+Input: I ate water and read a book.
+Translated: मैं पानी खाता था और एक किताब पढ़ रहा था।
